@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
     /**called when the user taps the send button */
     public void sendMessage(View view) {
         Intent intent = new Intent(this, DisplayMessageActivity.class);
