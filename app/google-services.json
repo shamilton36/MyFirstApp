@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104548695308",
+    "firebase_url": "https://stephen-and-parker-hw.firebaseio.com",
+    "project_id": "stephen-and-parker-hw",
+    "storage_bucket": "stephen-and-parker-hw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104548695308:android:f363407d1d70e5c1",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104548695308-c06qae5phq0pe7laia8lu1pimst94hln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIFAFGEe-AjujvV-Lgp14I8lHjIUWfUvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104548695308-c06qae5phq0pe7laia8lu1pimst94hln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
